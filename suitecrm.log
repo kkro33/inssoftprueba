@@ -1,0 +1,477 @@
+Fri Aug 24 14:07:18 2018 [7596][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Fri Aug 24 14:30:35 2018 [7596][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Aug 24 14:31:27 2018 [7596][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 14:37:32 2018 [7596][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 14:37:50 2018 [7596][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 15:59:33 2018 [7596][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 16:29:29 2018 [7596][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 16:42:38 2018 [7596][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Aug 24 16:46:41 2018 [7596][1][FATAL] Exception handling in C:\wamp64\www\ems_project\include\MVC\Controller\SugarController.php:402
+Fri Aug 24 16:46:41 2018 [7596][1][FATAL] Exception in Controller: Invalid Package
+Fri Aug 24 16:46:41 2018 [7596][1][FATAL] backtrace:
+#0 C:\wamp64\www\ems_project\modules\Administration\UpgradeWizard.php(123): sugar_die('Invalid Package')
+#1 C:\wamp64\www\ems_project\include\MVC\View\SugarView.php(840): include_once('C:\\wamp64\\www\\e...')
+#2 C:\wamp64\www\ems_project\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/Adminis...')
+#3 C:\wamp64\www\ems_project\include\MVC\View\SugarView.php(207): ViewClassic->display()
+#4 C:\wamp64\www\ems_project\include\MVC\Controller\SugarController.php(432): SugarView->process()
+#5 C:\wamp64\www\ems_project\include\MVC\Controller\SugarController.php(375): SugarController->processView()
+#6 C:\wamp64\www\ems_project\include\MVC\SugarApplication.php(109): SugarController->execute()
+#7 C:\wamp64\www\ems_project\index.php(52): SugarApplication->execute()
+#8 {main}
+Fri Aug 24 16:49:34 2018 [4340][1][FATAL] Exception handling in C:\wamp64\www\ems_project\include\MVC\Controller\SugarController.php:402
+Fri Aug 24 16:49:34 2018 [4340][1][FATAL] Exception in Controller: Invalid Package
+Fri Aug 24 16:49:34 2018 [4340][1][FATAL] backtrace:
+#0 C:\wamp64\www\ems_project\modules\Administration\UpgradeWizard.php(123): sugar_die('Invalid Package')
+#1 C:\wamp64\www\ems_project\include\MVC\View\SugarView.php(840): include_once('C:\\wamp64\\www\\e...')
+#2 C:\wamp64\www\ems_project\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/Adminis...')
+#3 C:\wamp64\www\ems_project\include\MVC\View\SugarView.php(207): ViewClassic->display()
+#4 C:\wamp64\www\ems_project\include\MVC\Controller\SugarController.php(432): SugarView->process()
+#5 C:\wamp64\www\ems_project\include\MVC\Controller\SugarController.php(375): SugarController->processView()
+#6 C:\wamp64\www\ems_project\include\MVC\SugarApplication.php(109): SugarController->execute()
+#7 C:\wamp64\www\ems_project\index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Aug 27 15:05:40 2018 [6896][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 15:09:09 2018 [6896][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 15:13:48 2018 [6896][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 20:09:53 2018 [6896][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 20:17:56 2018 [6896][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Aug 27 21:03:09 2018 [6896][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 14:40:19 2018 [5608][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:56:27 2018 [5608][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 17:59:17 2018 [5608][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 18:05:05 2018 [5608][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 20:03:01 2018 [5608][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Tue Aug 28 20:04:03 2018 [5608][1][FATAL] hola
+Tue Aug 28 20:04:19 2018 [5608][1][FATAL] hola
+Tue Aug 28 20:04:32 2018 [5608][1][FATAL] hola
+Tue Aug 28 20:05:19 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:05:39 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:05:51 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:09:10 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:09:17 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:09:26 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:09:34 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:12:24 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:12:27 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:12:31 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:12:39 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:17:35 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:17:41 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:17:53 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:18:02 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:18:04 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:18:16 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:18:24 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:19:29 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:19:31 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:19:34 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:19:43 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:20:17 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:20:20 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:20:22 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:20:30 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:24:26 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:24:34 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:25:08 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:25:12 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:25:18 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:25:22 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:27:12 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:29:01 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:29:18 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:31:19 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:32:48 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:32:57 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:33:00 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:33:14 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:33:16 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:33:25 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:33:58 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:35:07 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:35:34 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:35:38 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:35:42 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:36:08 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:38:44 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:38:49 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:39:03 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:39:08 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:41:43 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:41:55 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:43:30 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:43:35 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:43:42 2018 [5608][1][FATAL] hola etc
+Tue Aug 28 20:43:50 2018 [5608][1][FATAL] hola etc
+Wed Aug 29 14:33:24 2018 [7504][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed Aug 29 14:35:38 2018 [7504][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 14:39:01 2018 [7504][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 14:42:35 2018 [7504][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Wed Aug 29 14:51:30 2018 [7504][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Aug 29 14:51:30 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:51:39 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:51:39 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 14:51:48 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:53:16 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:53:26 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:53:26 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 14:53:33 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:53:36 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:58:03 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:58:36 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 14:58:36 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 15:46:46 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 15:46:46 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 15:47:01 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 15:47:01 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 15:47:21 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 15:47:21 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:04:47 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:04:47 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:05:12 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:05:12 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:05:12 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:10:42 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:10:42 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:10:45 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:10:45 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:10:48 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:10:48 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:10:51 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:10:51 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:10:51 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:15:14 2018 [7504][1][FATAL] hola etc
+Wed Aug 29 16:16:07 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:16:07 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:16:10 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:16:10 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:16:13 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:16:13 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:16:13 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:19:10 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:19:10 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:19:13 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:19:13 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:19:15 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:19:15 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:19:18 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:19:18 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:19:18 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:19:52 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:19:52 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:19:56 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:19:56 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:00 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:20:00 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:03 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:20:03 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:03 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:20:51 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:20:51 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:55 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:20:55 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:57 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:20:57 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:59 2018 [7504][1][FATAL] hola etc php
+Wed Aug 29 16:20:59 2018 [7504][1][FATAL] hola etc js
+Wed Aug 29 16:20:59 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:26:59 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:28:53 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:38:39 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:38:45 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:38:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:38:47 2018 [7504][1][FATAL] verifica que no este vacio
+Wed Aug 29 16:41:08 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:41:13 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:41:13 2018 [7504][1][FATAL] verifica que no este vacio
+Wed Aug 29 16:43:15 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:43:18 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:43:20 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:43:20 2018 [7504][1][FATAL] verifica que no este vacio
+Wed Aug 29 16:59:19 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:59:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:59:23 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 16:59:42 2018 [7504][1][FATAL] hola log
+Wed Aug 29 16:59:54 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:00:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:00:25 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:00:27 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:00:29 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:01:28 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:02:29 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:17:35 2018 [7504][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Aug 29 17:17:35 2018 [7504][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Aug 29 17:25:15 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:25:24 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:25:25 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:25:25 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:39:01 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:39:04 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:39:06 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:39:07 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:39:08 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:40:21 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:40:21 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:41:16 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:41:16 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:41:29 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:41:32 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:41:34 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:41:34 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:42:10 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:42:10 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:43:58 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:43:58 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:44:46 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:44:50 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:44:52 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:44:54 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:44:54 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:46:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:46:26 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:46:27 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:46:29 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:46:29 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:48:14 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:48:17 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:48:19 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:48:21 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:48:21 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:49:43 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:49:43 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:53:45 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:53:52 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:53:54 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:53:55 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:53:55 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:55:54 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:55:58 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:56:00 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:56:02 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:56:02 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:57:09 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:57:30 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:57:38 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:57:40 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:57:40 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 17:59:43 2018 [7504][1][FATAL] hola log
+Wed Aug 29 17:59:43 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:02:28 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:02:32 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:02:34 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:02:36 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:02:36 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:03:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:03:23 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:03:34 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:03:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:03:47 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:11:24 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:11:24 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:11:49 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:11:49 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:14:02 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:14:02 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:14:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:14:23 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:15:10 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:15:10 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:15:35 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:15:35 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:16:26 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:16:26 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:16:36 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:16:36 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:17:11 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:17:11 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:19:20 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:19:20 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:19:51 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:19:51 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:20:06 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:20:06 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:20:30 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:20:30 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:20:42 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:20:42 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:21:07 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:21:07 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:21:35 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:21:35 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:22:06 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:22:06 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:22:37 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:22:37 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:23:01 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:23:01 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:23:42 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:23:42 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:23:57 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:23:57 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:24:12 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:24:12 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:24:51 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:24:51 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:29:05 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:29:09 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:31:43 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:32:00 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:32:01 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:32:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:32:26 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:32:27 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:32:28 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:33:21 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:33:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:33:25 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:33:25 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:33:33 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:34:18 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:34:20 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:34:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:34:23 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:34:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:34:47 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:35:03 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:35:03 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:36:30 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:36:30 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:36:37 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:36:50 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:36:50 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:37:32 2018 [7504][1][FATAL] hola log
+Wed Aug 29 18:37:32 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 18:37:37 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:29:44 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:29:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:29:51 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:29:51 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 19:30:46 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:30:46 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 19:30:50 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:30:52 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:30:54 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:30:56 2018 [7504][1][FATAL] hola log
+Wed Aug 29 19:30:56 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 19:32:49 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:05:42 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:05:45 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:05:48 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:05:48 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:07:05 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:07:08 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:07:13 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:07:24 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:07:24 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:09:55 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:09:55 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:10:51 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:10:51 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:11:07 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:11:07 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:12:44 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:12:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:12:49 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:12:52 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:12:52 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:19:53 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:19:56 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:19:56 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:20:09 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:20:10 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:20:10 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:20:26 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:21:42 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:21:52 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:21:57 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:22:00 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:22:00 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 20:22:28 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:22:39 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:22:39 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:23:15 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:23:15 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:23:43 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:23:43 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:24:57 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:10 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:12 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:12 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:25:39 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:44 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:52 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:59 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:25:59 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:26:17 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:57:45 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:57:50 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:57:53 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:57:53 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:58:45 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:58:48 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:58:48 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 20:59:11 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:59:14 2018 [7504][1][FATAL] hola log
+Wed Aug 29 20:59:14 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 21:00:35 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:28:02 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:29:07 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:29:07 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 21:29:12 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:43:07 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:43:17 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:43:32 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:43:32 2018 [7504][1][FATAL] actualizar
+Wed Aug 29 21:44:21 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:44:23 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:51:38 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:51:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 21:51:47 2018 [7504][1][FATAL] registro_actualizado
+Wed Aug 29 21:55:24 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:03:47 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:03:58 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:04:04 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:04:04 2018 [7504][1][FATAL] registro_actualizado
+Wed Aug 29 22:04:38 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:04:41 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:04:41 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 22:04:43 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:04:57 2018 [7504][1][FATAL] hola log
+Wed Aug 29 22:04:57 2018 [7504][1][FATAL] hola etc2
+Wed Aug 29 22:46:39 2018 [7504][1][FATAL] hola log
+Thu Aug 30 14:30:18 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:30:22 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:30:23 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:30:26 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:30:26 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 14:33:43 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:33:46 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:33:52 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:33:55 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:33:55 2018 [7628][1][FATAL] registro_actualizado
+Thu Aug 30 14:33:55 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 14:34:08 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:34:15 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:34:25 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:34:44 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:34:44 2018 [7628][1][FATAL] registro_actualizado
+Thu Aug 30 14:34:44 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 14:35:23 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:36:25 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:36:27 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:36:30 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:36:30 2018 [7628][1][FATAL] registro_actualizado
+Thu Aug 30 14:36:30 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 14:36:43 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:36:43 2018 [7628][1][FATAL] registro_actualizado
+Thu Aug 30 14:36:43 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 14:37:49 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:37:49 2018 [7628][1][FATAL] registro_actualizado
+Thu Aug 30 14:37:49 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 14:38:32 2018 [7628][1][FATAL] hola log
+Thu Aug 30 14:38:32 2018 [7628][1][FATAL] registro_actualizado
+Thu Aug 30 14:38:32 2018 [7628][1][FATAL] hola etc2
+Thu Aug 30 15:12:21 2018 [7628][1][FATAL] hola log
+Thu Aug 30 15:34:51 2018 [7628][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Aug 30 15:37:40 2018 [7628][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Aug 30 15:41:01 2018 [7628][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Thu Aug 30 15:44:39 2018 [7628][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
